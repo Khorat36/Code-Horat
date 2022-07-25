@@ -1,0 +1,13 @@
+die1 = 0;
+die2 = 0;
+n = 0;
+count = 100;
+for
+while die1 < 6 || die2 < 6
+die1 = randi(6,1);
+die2 = randi(6,1); 
+n = n + 1;
+end
+disp(n);
+disp(die1);
+disp(die2);
